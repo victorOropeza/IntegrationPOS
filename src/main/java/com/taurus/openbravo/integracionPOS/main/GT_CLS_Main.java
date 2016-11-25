@@ -14,71 +14,66 @@ import com.taurus.openbravo.integracionPOS.XML.impl.GT_CLS_ManageStockXML;
 import com.taurus.openbravo.integracionPOS.soapclient.impl.GT_CLS_TaurusSyncClientImpl;
 import com.taurus.openbravo.utils.integracionPOSUtils.GT_CLS_ReadProperties;
 import com.taurus.openbravo.soapclient.entities.files.FileContainer;
-import java.io.File;
 import javax.xml.parsers.ParserConfigurationException;
-import modelo.LeerXMLPruebas;
-import org.xml.sax.SAXException;
 
-public class GT_CLS_Main extends GT_CLS_Base{
-	private GT_CLS_TaurusSyncClientImpl taurusSync = new GT_CLS_TaurusSyncClientImpl();
-        private String xml;
-	public void manejarPeticionesWS() {
-        	try {
-                    //C:\Users\Alex\Desktop\MGARAY_WBBDLD04_D.txt
-                    LeerXMLPruebas nuevo=new LeerXMLPruebas();
-                    Vista.Vista.eventos.append("Buscando archivos...\n");
-                    Thread.sleep(1000);
-                    xml=nuevo.xml("C:\\Users\\Alex\\Desktop\\CD01158.txt");
-                    
-                    System.out.println("----------------------------------------");
-                    
-                    Vista.Vista.eventos.append("Enviando archivos...\n");
-                    
-                    Thread.sleep(1000);
-                    Document doc = inicializarLecturaXML(xml);
-                    try
-                    {
-                         System.out.println(xml);
-                         determinarAccionPorEntidad(doc);
-                    }
-                    catch(Exception ex)
-                    {
-                        ex.printStackTrace();
-                    }
-                   
-//			String archivos = GT_CLS_ReadProperties.getPropertieValue("filekey.archivos");
-//			StringTokenizer st = new StringTokenizer(archivos, ",");
-//			while (st.hasMoreTokens()) {
-//				String fileKey = st.nextToken();
-//                                Vista.Vista.eventos.append("Buscando archivos...\n");
-//				// Primero validar si hay archivos y cuantos
-//				FileContainer[] files = getTaurusSync().buscarArchivos(fileKey);
-//				if (files.length > 0) {
-//					for (FileContainer file : files) {
-//                                                Vista.Vista.eventos.append("Bajando archivos...\n");
-//                                                xml=null;
-////						xml = getTaurusSync().bajarArchivos(file, fileKey);
-//						Document doc = inicializarLecturaXML(xml);
-// 						determinarAccionPorEntidad(doc);
-//						//String processResult = getTaurusSync().confirmarProcesoArchivo(file, fileKey);
-//						//System.out.println("El resultado de processingFile: " + processResult);
-//						break; // QUITAR ESTE!!!!!!!!
-//					} // FOR ITERA FILECONTAINER'S
-//				}
-//                                else
-//                                {
-//                                    Thread.sleep(500);
-//                                    Vista.Vista.eventos.append("No hay archivos nuevos...\n");
-//                                }
-//				break;// QUITAR ESTE!!!!!!!!
-//			}
-		} catch (InterruptedException | IOException | ParserConfigurationException | SAXException e) {//Poner excepciones especificas 
-			e.printStackTrace();
-		}
-                
-	}
+public class GT_CLS_Main extends GT_CLS_Base {
 
-	private void determinarAccionPorEntidad(Document doc) throws IOException {
+    private final GT_CLS_TaurusSyncClientImpl taurusSync = new GT_CLS_TaurusSyncClientImpl();
+    private String xml;
+
+    public void manejarPeticionesWS() throws ParserConfigurationException {
+//       	try {
+//                    //C:\Users\Alex\Desktop\MGARAY_WBBDLD04_D.txt
+//                    LeerXMLPruebas nuevo=new LeerXMLPruebas();
+//                    Vista.Vista.eventos.append("Buscando archivos...\n");
+//                    Thread.sleep(1000);
+//                    xml=nuevo.xml("C:\\Users\\Alex\\Desktop\\CD01158.txt");
+//                    
+//                    System.out.println("----------------------------------------");
+//                    
+//                    Vista.Vista.eventos.append("Enviando archivos...\n");
+//                    
+//                    Thread.sleep(1000);
+//                    Document doc = inicializarLecturaXML(xml);
+//                    try
+//                    {
+//                         System.out.println(xml);
+//                         determinarAccionPorEntidad(doc);
+//                    }
+//                    catch(Exception ex)
+//                    {
+//                        ex.printStackTrace();
+//                    }
+        try {
+            String archivos = GT_CLS_ReadProperties.getPropertieValue("filekey.archivos");
+            StringTokenizer st = new StringTokenizer(archivos, ",");
+            while (st.hasMoreTokens()) {
+                String fileKey = st.nextToken();
+                // Primero validar si hay archivos y cuantos
+                //FileContainer[] files = getTaurusSync().buscarArchivos(fileKey);
+                /*if (files.length > 0) {
+                 for (FileContainer file : files) {
+                 String xml = getTaurusSync().bajarArchivos(file, fileKey);
+                 Document doc = inicializarLecturaXMLFalsa(xml);
+                 determinarAccionPorEntidad(doc);
+                 //String processResult = getTaurusSync().confirmarProcesoArchivo(file, fileKey);
+                 //System.out.println("El resultado de processingFile: " + processResult);
+                 //break; // QUITAR ESTE!!!!!!!!
+                 } // FOR ITERA FILECONTAINER'S
+                 }
+                 //break;// QUITAR ESTE!!!!!!!!
+                 */
+                String xml = "";
+                FileContainer[] files = new FileContainer[0];
+                Document doc = inicializarLecturaXMLFalsa(xml);
+                determinarAccionPorEntidad(doc);
+            }
+        } catch (Exception e) {//Poner excepciones especificas 
+            e.printStackTrace();
+        }
+}
+
+private void determinarAccionPorEntidad(Document doc) throws IOException {
 		final String PRODUCTO = GT_CLS_ReadProperties.getPropertieValue("nodo.productos");
 		final String PRECIO = GT_CLS_ReadProperties.getPropertieValue("nodo.precios");
 		final String PROMOCION = GT_CLS_ReadProperties.getPropertieValue("nodo.promocion");

@@ -1,45 +1,36 @@
 package com.taurus.openbravo.restclient.integracionPOS;
 
 /*import com.taurus.openbravo.integracionPOS.service.GT_CLS_MainService;
-import com.taurus.openbravo.integracionPOS.soapclient.impl.GT_CLS_TaurusSyncClientImpl;
-import com.taurus.openbravo.soapclient.entities.files.FileContainer;*/
-
-
-import Inventario.HandlerInventario;
-import Inventario.CrearXML;
-import Inventario.Inventario;
-import com.taurus.openbravo.integracionPOS.main.GT_CLS_Base;
-import java.io.File;
-import java.util.ArrayList;
-import javax.xml.parsers.SAXParser;
-import javax.xml.parsers.SAXParserFactory;
+ import com.taurus.openbravo.integracionPOS.soapclient.impl.GT_CLS_TaurusSyncClientImpl;
+ import com.taurus.openbravo.soapclient.entities.files.FileContainer;*/
+import com.taurus.openbravo.integracionPOS.main.GT_CLS_Main;
 import junit.framework.TestCase;
-import promocion.CrearPromocion;
-import promocion.Handler;
-import promocion.Promocion;
 
-public class GT_CLS_ServiceTest extends TestCase{
-      public void testBuscar() throws Exception {
-          
-       CrearXML Cxml=new CrearXML();   
-       SAXParserFactory SPF= SAXParserFactory.newInstance();
-       SAXParser saxParser= SPF.newSAXParser();
-       File file=new File("C:\\Users\\Alex\\Desktop\\MGARAY_MOVSINV_D.xml");
-      
-       HandlerInventario handler=new HandlerInventario();
-       saxParser.parse(file, handler);
-       ArrayList<Inventario> datos = handler.getDatos();
-       ArrayList<String> Cs;
-       
-       for(Inventario i: datos)
-       {
-           Cs=i.getF();
-           for(String s: Cs)
-           {
-              Cxml.CrearXML(s);
-           }
-       }
-            
+public class GT_CLS_ServiceTest extends TestCase {
+
+    public void testBuscar() throws Exception {
+
+        GT_CLS_Main main = new GT_CLS_Main();
+        main.manejarPeticionesWS();
+
+//       CrearXML Cxml=new CrearXML();   
+//       SAXParserFactory SPF= SAXParserFactory.newInstance();
+//       SAXParser saxParser= SPF.newSAXParser();
+//       File file=new File("C:\\Users\\Alex\\Desktop\\MGARAY_MOVSINV_D.xml");
+//      
+//       HandlerInventario handler=new HandlerInventario();
+//       saxParser.parse(file, handler);
+//       ArrayList<Inventario> datos = handler.getDatos();
+//       ArrayList<String> Cs;
+//       
+//       for(Inventario i: datos)
+//       {
+//           Cs=i.getF();
+//           for(String s: Cs)
+//           {
+//              Cxml.CrearXML(s);
+//           }
+//       }
 //       SAXParserFactory SPF= SAXParserFactory.newInstance();
 //       SAXParser saxParser= SPF.newSAXParser();
 //       File file=new File("C:\\Users\\Alex\\Desktop\\Documentos\\IntegracionPOS\\integracionPOS\\promos.xml");
@@ -86,7 +77,5 @@ public class GT_CLS_ServiceTest extends TestCase{
 //            }
 //           
 //        }
-		
-
-	}
+    }
 }

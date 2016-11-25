@@ -174,9 +174,7 @@ public class Vista extends javax.swing.JFrame {
        iniciar.setEnabled(false);
        detener.setEnabled(true);
        c.start();
-         
-       
-       
+           
     }//GEN-LAST:event_iniciarActionPerformed
 
     private void detenerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_detenerActionPerformed
