@@ -1,0 +1,380 @@
+ï»¿El producto no se insertÃ³:  BONA002_BX
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+----------------------------------------------------------
+
+El producto no se insertÃ³:  BONA002_BX
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+13/04/2016 16:17:44.633
+----------------------------------------------------------
+El producto no se insertÃ³:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+14/04/2016 15:59:34.77
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:54.204
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:54.344
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:54.435
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:54.554
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:54.639
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:54.728
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:58.781
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:58.870
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:58.946
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:59.35
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:59.115
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:41:59.194
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:49:52.484
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:50:16.04
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:53:57.706
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:54:12.624
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:54:27.303
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:54:41.971
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:54:56.581
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:55:11.222
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:32.79
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:33.119
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:33.267
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:33.373
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:33.455
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:33.547
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:56.44
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:57.288
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:57.407
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:57.507
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:57.627
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:56:57.776
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:59:16.787
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:59:17.557
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:59:17.673
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:59:17.777
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:59:17.869
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 16:59:17.961
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:01:48.625
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:01:49.472
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:01:49.588
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:01:49.673
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:01:49.757
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:01:49.926
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:05:11.526
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:05:12.175
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:05:12.267
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:05:12.352
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:05:12.436
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:05:12.532
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:05:59.683
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:06:00.493
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:06:00.590
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:06:00.680
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:06:00.764
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_6FA87C4EE1FD4C86940A5F2E47C429DA
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:06:00.848
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:12:52.454
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:12:53.156
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:12:53.264
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:12:53.372
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:12:53.515
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:12:53.607
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:14:14.865
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:14:15.536
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:14:15.645
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:14:15.733
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:14:15.805
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+05/10/2016 17:14:15.937
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+06/10/2016 10:24:23.111
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+06/10/2016 10:25:48.592
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+06/10/2016 10:27:12.728
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+06/10/2016 10:28:36.944
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+06/10/2016 10:30:01.114
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+06/10/2016 10:31:25.275
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_72BA247D31F745F3AF11F74A5E2CCBEF
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+06/10/2016 11:29:33.138
+--------------------------------------------------------------------------------
+El precio para el siguiente producto no se insertó: CUBU0037_BX
+Alguno(s) de los siguientes: [Producto] no fueron encontrados en OpenBravo
+11/10/2016 17:10:09.949
+--------------------------------------------------------------------------------
+El precio para el siguiente producto no se insertó: CUBU0034_BX
+Alguno(s) de los siguientes: [Producto] no fueron encontrados en OpenBravo
+11/10/2016 17:10:13.278
+--------------------------------------------------------------------------------
+El precio para el siguiente producto no se insertó: WVG/T0102
+Alguno(s) de los siguientes: [Producto] no fueron encontrados en OpenBravo
+12/10/2016 17:29:00.783
+--------------------------------------------------------------------------------
+El producto no se insertó:  ALBE0024_Kilogram
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+17/10/2016 16:02:02.616
+--------------------------------------------------------------------------------
+El producto no se insertó:  ALBE0075_Kilogram
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 13:04:12.910
+--------------------------------------------------------------------------------
+El producto no se insertó:  ALBE0075_Kilogram
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 13:06:08.351
+--------------------------------------------------------------------------------
+El producto no se insertó:  ALBE0075_Kilogram
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 13:12:51.585
+--------------------------------------------------------------------------------
+El producto no se insertó:  ALBE0075_Kilogram
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 15:54:09.06
+--------------------------------------------------------------------------------
+El producto no se insertó:  WVG/M0004_Unit
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 16:19:13.746
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 16:49:27.658
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 17:02:32.187
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+16/11/2016 17:04:21.575
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+23/11/2016 16:29:33.775
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+23/11/2016 16:33:38.992
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+23/11/2016 16:52:26.677
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+23/11/2016 17:01:29.428
+--------------------------------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+24/11/2016 10:13:52.460
+--------------------------------------------------------------------------------
